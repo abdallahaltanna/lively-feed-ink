@@ -1,6 +1,6 @@
 # Lively Feed Link
 
-## [Live ✨](https://lively-feed-link-467f5f2fb821.herokuapp.com/)
+## [Live ✨](https://lively-feed-ink.netlify.app/)
 
 ## Install lively-feed-ink locally
 
